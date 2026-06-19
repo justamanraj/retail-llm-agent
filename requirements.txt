@@ -1,0 +1,2 @@
+cd C:\Users\Aman Raj\OneDrive\Desktop\projectLLM
+pip freeze > requirements.txt
